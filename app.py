@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 
 # --- 1. CONFIGURATION ---
 SENDER_EMAIL = "ilovemuffin210296@gmail.com"
-SENDER_PASSWORD = "hedc vllq bfxg wfau"
+SENDER_PASSWORD = st.secrets["hedcvllqbfxgwfau"]
 RECEIVER_EMAIL = "mesoumyaanu@gmail.com"
 
 # --- 2. QUESTION BANK ---
