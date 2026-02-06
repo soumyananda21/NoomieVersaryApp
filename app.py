@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # --- 1. CONFIGURATION ---
-SENDER_EMAIL = "ilovemuffin210296@gmail.com"
+SENDER_EMAIL = st.secrets["ilovemuffin210296@gmail.com"]
 SENDER_PASSWORD = st.secrets["hedcvllqbfxgwfau"]
-RECEIVER_EMAIL = "mesoumyaanu@gmail.com"
+RECEIVER_EMAIL = st.secrets["t.kartik.kumar28@gmail.com"]
 
 # --- 2. QUESTION BANK ---
 QUESTIONS = {
