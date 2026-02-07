@@ -12,10 +12,10 @@ RECEIVER_EMAIL = st.secrets["receiver_email"]
 # --- 2. QUESTION BANK ---
 QUESTIONS = {
     "🌱 Childhood": [
-        "What is your earliest childhood memory?",
+        "Which of your childhood dreams did you 'outgrow,' and which one do you still carry a piece of today?",
         "What was your favorite toy or game growing up?",
         "What is a smell that instantly takes you back to your childhood?",
-        "What is a 'quiet' trait about yourself that you wish more people noticed or appreciated?",
+        "What is a trait about yourself that you wish more people noticed or appreciated?",
     ],
     "💍 Our Love Story": [
         "What is a 'small' memory of us that carries a surprisingly large amount of weight for you?",
